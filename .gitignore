@@ -133,3 +133,4 @@ dmypy.json
 env
 *.pyc
 .DS_Store
+*secrets*
